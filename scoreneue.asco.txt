@@ -1,26 +1,18 @@
 
+BPM 60 @modulate
 NOTE C2 1 _0
+
 	controlplayback PLAY
 	detectedrate 60
 	oscsend video 10.0.0.14 : 8050 "/video"
 
-
   	oscsend avatar 10.0.0.14 : 8050 "/avatar"
   	oscsend avatar2 10.0.0.14 : 8050 "/avatar2"
-  	oscsend avatar3 10.0.0.14 : 8050 "/avatar3"
-  	oscsend avatar4 10.0.0.14 : 8050 "/avatar4"
-  	oscsend avatar5 10.0.0.14 : 8050 "/avatar5"
-
+  
   	oscsend camtravel 10.0.0.14 : 8050 "/camtravel"
 	oscsend camleft 10.0.0.14 : 8050 "/camleft"
   	oscsend camright 10.0.0.14 : 8050 "/camright"
-  	oscsend camback 10.0.0.14 : 8050 "/camback"
-  	oscsend camfront 10.0.0.14 : 8050 "/camfront"
-  	oscsend camup 10.0.0.14 : 8050 "/camup"
-  	oscsend camrotor 10.0.0.14 : 8050 "/camrotor"
-
-    camrotor 1
-    video 5
+  	
     
 NOTE C#2 1 _1
 NOTE D2 1 _2
