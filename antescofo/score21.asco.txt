@@ -1,0 +1,90 @@
+BPM 60 @modulate
+NOTE C#2 1 _0_2
+	beat 93.1
+NOTE D2 1 _0_3
+	beat 94.6
+NOTE D#2 1 _0_4
+	beat 96
+
+NOTE C2 1 _1_1
+	beat 98.3
+NOTE C#2 1 _1_2
+	beat 100.3
+NOTE D2 1 _1_3
+	beat 102
+NOTE D#2 1 _1_4
+	beat 103.4
+
+
+NOTE C2 1 _2_1
+	beat 104.4
+NOTE C#2 1 _2_2
+	beat 106
+NOTE D2 1 _2_3
+	beat 107.2
+NOTE D#2 1 _2_4
+	beat 108.4
+
+
+NOTE C2 1 _3_1
+	beat 109.7
+NOTE C#2 1 _3_2
+	beat 110.8	
+NOTE D2 1 _3_3
+	beat 112
+NOTE D#2 1 _3_4
+	beat 113.2
+
+
+NOTE C2 1 _4_1
+	beat 114.2
+NOTE C#2 1 _4_2
+	beat 115.5
+NOTE D2 1 _4_3
+	beat 116.5
+NOTE D#2 1 _4_4
+	beat 117.6
+
+
+
+
+NOTE C2 1 _1_1
+	beat 118.7
+NOTE C#2 1 _1_2
+	beat 119.8
+NOTE D2 1 _1_3
+	beat 120.9
+NOTE D#2 1 _1_4
+	beat 121.9
+
+
+NOTE C2 1 _2_1
+	beat 122.85
+NOTE C#2 1 _2_2
+	beat 123.7
+NOTE D2 1 _2_3
+	beat 124.7
+NOTE D#2 1 _2_4
+	beat 126
+
+
+NOTE C2 1 _3_1
+	beat 127.5
+NOTE C#2 1 _3_2
+	beat 128.8
+NOTE D2 1 _3_3
+	beat 129.8
+NOTE D#2 1 _3_4
+	beat 130.8
+
+
+NOTE C2 1 _4_1
+	beat 131.7
+NOTE C#2 1 _4_2
+	beat 132.7
+NOTE D2 1 _4_3
+	beat 133.7
+NOTE D#2 1 _4_4
+	beat 117.6
+
+
