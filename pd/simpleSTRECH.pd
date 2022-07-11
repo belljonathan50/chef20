@@ -35,7 +35,7 @@
 #X text 549 77 speed change;
 #X obj 380 181 phasor~;
 #X text 33 12 TWO OVERLAPPING SAMPLE READ ELEMENTS;
-#N canvas 804 147 614 280 table 1;
+#N canvas 804 147 614 280 table 0;
 #N canvas 0 0 450 300 (subpatch) 0;
 #X array table22 4.41e+06 float 0;
 #X coords 0 1.02 4.41e+06 -1.02 200 130 1 0 0;
@@ -50,7 +50,7 @@
 #X obj 52 118 tabwrite~ table22;
 #X text 108 91 <= record;
 #X msg 198 222 read ../danau.wav table22;
-#X msg 48 175 read ../danau.wav table22;
+#X msg 48 175 read ../audio_dufay-left.wav table22;
 #X connect 2 0 11 0;
 #X connect 3 0 4 0;
 #X connect 4 0 8 0;
