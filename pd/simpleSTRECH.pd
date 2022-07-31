@@ -1,4 +1,4 @@
-#N canvas 42 181 684 847 12;
+#N canvas 73 25 684 847 12;
 #X declare -stdpath ./;
 #X obj 60 561 hip~ 5;
 #X floatatom 35 44 0 0 100 0 - - -;
@@ -34,7 +34,7 @@
 #X text 549 77 speed change;
 #X obj 380 181 phasor~;
 #X text 33 12 TWO OVERLAPPING SAMPLE READ ELEMENTS;
-#N canvas 804 147 614 280 table 1;
+#N canvas 101 125 614 280 table 0;
 #X text 365 198 --- 44103 samples ---;
 #X obj 48 148 loadbang;
 #X obj 52 37 adc~ 1;
