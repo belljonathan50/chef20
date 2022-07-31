@@ -1,0 +1,791 @@
+﻿; Antescofo score generated using native importer
+; Copyright (c) IRCAM 2015
+; Designed by Robert Piéchaud
+
+; Original file: 125_Par_le_grant.midi
+; MIDI file type 1 (multiple tracks)
+; Converted to Antescofo on Fri Jul 29 11:59:23 2022
+
+; start
+
+; ----------- measure 1 --- beat 0 --- time signature 6/2
+
+BPM 430
+CHORD (D4 A4) 3 measure1
+CHORD (-D4 F4 -A4) 3
+CHORD (C4 E4 -A4) 6
+
+; ----------- measure 2 --- beat 12 --- time signature 6/2
+
+CHORD (G3 D4) 3/2 measure2
+CHORD (-G3 A#3) 3
+CHORD (-G3 A3) 3/2
+CHORD (G3 A#4) 3
+CHORD (-G3 D4 -A#4) 3
+
+; ----------- measure 3 --- beat 24 --- time signature 6/2
+
+CHORD (D#4 -A#4) 3 measure3
+CHORD (G3 D4 -A#4) 3
+CHORD (-G3 -D4 A4) 3
+CHORD (A3 C4 -A4) 3
+
+; ----------- measure 4 --- beat 36 --- time signature 6/2
+
+CHORD (D4 -A4) 3 measure4
+CHORD (-D4 F4 B4) 3
+CHORD (C4 E4 C5) 3
+CHORD (-C4 -E4 A4) 3
+
+; ----------- measure 5 --- beat 48 --- time signature 6/2
+
+CHORD (A#3 D4 A#4) 3 measure5
+CHORD (-A#3 -D4 G4) 3
+CHORD (A3 A4) 3
+CHORD (E4 -A4) 1
+CHORD (A3 -E4 -A4) 2
+
+; ----------- measure 6 --- beat 60 --- time signature 6/2
+
+CHORD (A3 E4) 3 measure6
+NOTE E4 1
+CHORD (C4 -E4) 2
+CHORD (A#3 D4 G4) 3
+CHORD (-A#3 -D4 F4) 3
+
+; ----------- measure 7 --- beat 72 --- time signature 6/2
+
+CHORD (A3 C4 -F4) 3 measure7
+CHORD (C4 E4) 3
+CHORD (G3 D4) 2
+CHORD (-G3 -D4 E4) 1
+CHORD (-D4 -E4) 1
+CHORD (-D4 F4) 2
+
+; ----------- measure 8 --- beat 84 --- time signature 6/2
+
+CHORD (C4 G4) 2 measure8
+NOTE -C4 1
+CHORD (-C4 E4) 1
+CHORD (-C4 -E4 A4) 2
+CHORD (A3 -E4 -A4) 3
+CHORD (-A3 C4 -A4) 1
+CHORD (-A3 -C4 G4) 2
+
+; ----------- measure 9 --- beat 96 --- time signature 6/2
+
+CHORD (G3 -G4) 3 measure9
+CHORD (C4 -G4) 1
+CHORD (-C4 -G4) 2
+CHORD (G3 D4 -G4) 3
+CHORD (-G3 A#3 -G4) 1
+CHORD (-G3 -A#3 E4) 2
+
+; ----------- measure 10 --- beat 108 --- time signature 6/2
+
+CHORD (A3 -E4) 2 measure10
+CHORD (-A3 F4) 1
+CHORD (-A3 C4 -F4) 1
+CHORD (-A3 -C4 D4) 2
+CHORD (G3 A#3 -D4) 3
+CHORD (A#3 -D4) 1
+CHORD (-A#3 C4) 2
+
+; ----------- measure 11 --- beat 120 --- time signature 6/2
+
+CHORD (A3 E4) 3 measure11
+NOTE -E4 1
+CHORD (A3 -E4) 2
+NOTE D4 2
+CHORD (-D4 A4) 1
+CHORD (G3 -D4 -A4) 1
+CHORD (-G3 -D4 B4) 2
+
+; ----------- measure 12 --- beat 132 --- time signature 6/2
+
+CHORD (F3 C5) 3 measure12
+CHORD (A3 -C5) 1
+CHORD (-A3 C4 -C5) 2
+CHORD (-A3 C4 -C5) 3
+CHORD (C4 -C5) 1
+CHORD (-C4 A#4) 2
+
+; ----------- measure 13 --- beat 144 --- time signature 6/2
+
+CHORD (D4 F4 A#4) 2 measure13
+CHORD (-D4 -F4 A4) 4
+CHORD (C4 E4 A4) 2
+CHORD (-C4 -E4 G4) 4
+
+; ----------- measure 14 --- beat 156 --- time signature 6/2
+
+CHORD (A3 A4) 3 measure14
+CHORD (D4 -A4) 1
+CHORD (-D4 -A4) 2
+CHORD (G3 E4) 2
+CHORD (-G3 -E4 B4) 2
+CHORD (-G3 -E4 C5) 2
+
+; ----------- measure 15 --- beat 168 --- time signature 6/2
+
+CHORD (-G3 D4 D5) 2 measure15
+CHORD (-G3 -D4 C5) 2
+CHORD (-G3 -D4 A#4) 1
+CHORD (-G3 -D4 A4) 1
+CHORD (-D4 A4) 2
+CHORD (-D4 A#4) 1
+CHORD (D4 -A#4) 1
+CHORD (-D4 G4) 2
+
+; ----------- measure 16 --- beat 180 --- time signature 6/2
+
+CHORD (C4 E4 G4) 6 measure16
+CHORD (G3 D4) 2
+CHORD (-G3 -D4 A#4) 2
+CHORD (-G3 -D4 A4) 2
+
+; ----------- measure 17 --- beat 192 --- time signature 6/2
+
+CHORD (-G3 G4) 2 measure17
+CHORD (-G3 A#4) 1
+CHORD (-G3 D4 -A#4) 1
+CHORD (-G3 -D4 A4) 2
+CHORD (A#3 D4 G4) 2
+CHORD (-A#3 -D4 F4) 2
+CHORD (-A#3 -D4 E4) 2
+
+; ----------- measure 18 --- beat 204 --- time signature 6/2
+
+CHORD (C4 F4) 2 measure18
+CHORD (-C4 G4) 1
+CHORD (-C4 D4 -G4) 1
+CHORD (A#3 -D4 -G4) 2
+CHORD (A3 E4 A4) 3
+CHORD (-A3 C4 -A4) 1
+CHORD (-A3 -C4 F4) 2
+
+; ----------- measure 19 --- beat 216 --- time signature 6/2
+
+CHORD (A3 C4 -F4) 2 measure19
+CHORD (-A3 -C4 E4) 1
+CHORD (C4 -E4) 3
+CHORD (G3 D4) 3
+NOTE -D4 1
+NOTE -D4 2
+
+; ----------- measure 20 --- beat 228 --- time signature 6/2
+
+NOTE C4 3 measure20
+CHORD (-C4 D4) 1
+CHORD (A#3 -D4) 2
+CHORD (A3 E4 A4) 3/2
+CHORD (-A3 -E4 B4) 3/2
+CHORD (-A3 -E4 C5) 3
+
+; ----------- measure 21 --- beat 240 --- time signature 6/2
+
+CHORD (C4 -C5) 3 measure21
+CHORD (-C4 E4 B4) 3
+CHORD (D4 F4 -B4) 3
+CHORD (D4 A4) 3
+
+; ----------- measure 22 --- beat 252 --- time signature 6/2
+
+CHORD (E4 G#4) 3 measure22
+CHORD (C4 -G#4) 1
+CHORD (-C4 -G#4) 2
+CHORD (A#3 D4 -G#4) 6
+
+; ----------- measure 23 --- beat 264 --- time signature 6/2
+
+CHORD (A3 E4) 3 measure23
+CHORD (-A3 -E4 A4) 3
+CHORD (D4 -A4) 3
+CHORD (D4 B4) 3/2
+CHORD (-D4 A4) 3/2
+
+; ----------- measure 24 --- beat 276 --- time signature 6/2
+
+CHORD (A3 C4 -A4) 3/2 measure24
+CHORD (-A3 -C4 G4) 3/2
+CHORD (A3 C4 -G4) 3/2
+CHORD (-A3 -C4 F4) 3/2
+CHORD (A#3 D4 -F4) 3/2
+CHORD (-A#3 -D4 E4) 3/2
+CHORD (A3 C4 -E4) 3/2
+CHORD (-A3 -C4 D4) 3/2
+
+; ----------- measure 25 --- beat 288 --- time signature 6/2
+
+CHORD (G3 A#3 -D4) 3/2 measure25
+CHORD (-G3 -A#3 E4) 3/2
+CHORD (A3 C4 -E4) 3/2
+CHORD (-A3 C4) 3/2
+CHORD (G3 D4) 3
+CHORD (G3 D4) 3
+
+; ----------- measure 26 --- beat 300 --- time signature 6/2
+
+CHORD (A3 A4) 3 measure26
+NOTE D4 3
+CHORD (A3 E4 A4) 3
+CHORD (-A3 -E4 B4) 1
+CHORD (-A3 C4 -B4) 1/2
+CHORD (-A3 -C4 A4) 3/2
+
+; ----------- measure 27 --- beat 312 --- time signature 6/2
+
+CHORD (-C4 -A4) 3/2 measure27
+CHORD (-C4 E4) 1/2
+CHORD (A3 -C4 -E4) 1
+CHORD (-A3 -C4 E4) 3
+CHORD (A#3 G4) 3/2
+CHORD (-A#3 F4) 5/2
+CHORD (A3 C4 -F4) 1/2
+CHORD (-A3 -C4 E4) 3/2
+
+; ----------- measure 28 --- beat 324 --- time signature 6/2
+
+CHORD (G3 D4) 2 measure28
+CHORD (-G3 -D4 E4) 2
+CHORD (-G3 -D4 F4) 2
+CHORD (C4 G4) 4
+CHORD (C4 A4) 2
+
+; ----------- measure 29 --- beat 336 --- time signature 3/2
+
+CHORD (A#3 D4 G4) 2 measure29
+CHORD (-A#3 -D4 A4) 2
+CHORD (-A#3 -D4 F4) 2
+
+; ----------- measure 30 --- beat 342 --- time signature 12/2
+
+CHORD (A3 E4 A4) 24 measure30
+
+; ----------- measure 31 --- beat 366 --- time signature 6/2
+
+BPM 430
+CHORD (D4 A4) 3 measure31
+CHORD (-D4 F4 -A4) 3
+CHORD (C4 E4 -A4) 6
+
+; ----------- measure 32 --- beat 378 --- time signature 6/2
+
+CHORD (G3 D4) 3/2 measure32
+CHORD (-G3 A#3) 3
+CHORD (-G3 A3) 3/2
+CHORD (G3 A#4) 3
+CHORD (-G3 D4 -A#4) 3
+
+; ----------- measure 33 --- beat 390 --- time signature 6/2
+
+CHORD (D#4 -A#4) 3 measure33
+CHORD (G3 D4 -A#4) 3
+CHORD (-G3 -D4 A4) 3
+CHORD (A3 C4 -A4) 3
+
+; ----------- measure 34 --- beat 402 --- time signature 6/2
+
+CHORD (D4 -A4) 3 measure34
+CHORD (-D4 F4 B4) 3
+CHORD (C4 E4 C5) 3
+CHORD (-C4 -E4 A4) 3
+
+; ----------- measure 35 --- beat 414 --- time signature 6/2
+
+CHORD (A#3 D4 A#4) 3 measure35
+CHORD (-A#3 -D4 G4) 3
+CHORD (A3 A4) 3
+CHORD (E4 -A4) 1
+CHORD (A3 -E4 -A4) 2
+
+; ----------- measure 36 --- beat 426 --- time signature 6/2
+
+CHORD (A3 E4) 3 measure36
+NOTE E4 1
+CHORD (C4 -E4) 2
+CHORD (A#3 D4 G4) 3
+CHORD (-A#3 -D4 F4) 3
+
+; ----------- measure 37 --- beat 438 --- time signature 6/2
+
+CHORD (A3 C4 -F4) 3 measure37
+CHORD (C4 E4) 3
+CHORD (G3 D4) 2
+CHORD (-G3 -D4 E4) 1
+CHORD (-D4 -E4) 1
+CHORD (-D4 F4) 2
+
+; ----------- measure 38 --- beat 450 --- time signature 6/2
+
+CHORD (C4 G4) 2 measure38
+NOTE -C4 1
+CHORD (-C4 E4) 1
+CHORD (-C4 -E4 A4) 2
+CHORD (A3 -E4 -A4) 3
+CHORD (-A3 C4 -A4) 1
+CHORD (-A3 -C4 G4) 2
+
+; ----------- measure 39 --- beat 462 --- time signature 6/2
+
+CHORD (G3 -G4) 3 measure39
+CHORD (C4 -G4) 1
+CHORD (-C4 -G4) 2
+CHORD (G3 D4 -G4) 3
+CHORD (-G3 A#3 -G4) 1
+CHORD (-G3 -A#3 E4) 2
+
+; ----------- measure 40 --- beat 474 --- time signature 6/2
+
+CHORD (A3 -E4) 2 measure40
+CHORD (-A3 F4) 1
+CHORD (-A3 C4 -F4) 1
+CHORD (-A3 -C4 D4) 2
+CHORD (G3 A#3 -D4) 3
+CHORD (A#3 -D4) 1
+CHORD (-A#3 C4) 2
+
+; ----------- measure 41 --- beat 486 --- time signature 6/2
+
+CHORD (A3 E4) 3 measure41
+NOTE -E4 1
+CHORD (A3 -E4) 2
+NOTE D4 2
+CHORD (-D4 A4) 1
+CHORD (G3 -D4 -A4) 1
+CHORD (-G3 -D4 B4) 2
+
+; ----------- measure 42 --- beat 498 --- time signature 6/2
+
+CHORD (F3 C5) 3 measure42
+CHORD (A3 -C5) 1
+CHORD (-A3 C4 -C5) 2
+CHORD (-A3 C4 -C5) 3
+CHORD (C4 -C5) 1
+CHORD (-C4 A#4) 2
+
+; ----------- measure 43 --- beat 510 --- time signature 6/2
+
+CHORD (D4 F4 A#4) 2 measure43
+CHORD (-D4 -F4 A4) 4
+CHORD (C4 E4 A4) 2
+CHORD (-C4 -E4 G4) 4
+
+; ----------- measure 44 --- beat 522 --- time signature 6/2
+
+CHORD (A3 A4) 3 measure44
+CHORD (D4 -A4) 1
+CHORD (-D4 -A4) 2
+CHORD (G3 E4) 2
+CHORD (-G3 -E4 B4) 2
+CHORD (-G3 -E4 C5) 2
+
+; ----------- measure 45 --- beat 534 --- time signature 6/2
+
+CHORD (-G3 D4 D5) 2 measure45
+CHORD (-G3 -D4 C5) 2
+CHORD (-G3 -D4 A#4) 1
+CHORD (-G3 -D4 A4) 1
+CHORD (-D4 A4) 2
+CHORD (-D4 A#4) 1
+CHORD (D4 -A#4) 1
+CHORD (-D4 G4) 2
+
+; ----------- measure 46 --- beat 546 --- time signature 6/2
+
+CHORD (C4 E4 G4) 6 measure46
+CHORD (G3 D4) 2
+CHORD (-G3 -D4 A#4) 2
+CHORD (-G3 -D4 A4) 2
+
+; ----------- measure 47 --- beat 558 --- time signature 6/2
+
+CHORD (-G3 G4) 2 measure47
+CHORD (-G3 A#4) 1
+CHORD (-G3 D4 -A#4) 1
+CHORD (-G3 -D4 A4) 2
+CHORD (A#3 D4 G4) 2
+CHORD (-A#3 -D4 F4) 2
+CHORD (-A#3 -D4 E4) 2
+
+; ----------- measure 48 --- beat 570 --- time signature 6/2
+
+CHORD (C4 F4) 2 measure48
+CHORD (-C4 G4) 1
+CHORD (-C4 D4 -G4) 1
+CHORD (A#3 -D4 -G4) 2
+CHORD (A3 E4 A4) 3
+CHORD (-A3 C4 -A4) 1
+CHORD (-A3 -C4 F4) 2
+
+; ----------- measure 49 --- beat 582 --- time signature 6/2
+
+CHORD (A3 C4 -F4) 2 measure49
+CHORD (-A3 -C4 E4) 1
+CHORD (C4 -E4) 3
+CHORD (G3 D4) 3
+NOTE -D4 1
+NOTE -D4 2
+
+; ----------- measure 50 --- beat 594 --- time signature 6/2
+
+NOTE C4 3 measure50
+CHORD (-C4 D4) 1
+CHORD (A#3 -D4) 2
+CHORD (A3 E4 A4) 3/2
+CHORD (-A3 -E4 B4) 3/2
+CHORD (-A3 -E4 C5) 3
+
+; ----------- measure 51 --- beat 606 --- time signature 6/2
+
+CHORD (C4 -C5) 3 measure51
+CHORD (-C4 E4 B4) 3
+CHORD (D4 F4 -B4) 3
+CHORD (D4 A4) 3
+
+; ----------- measure 52 --- beat 618 --- time signature 6/2
+
+CHORD (E4 G#4) 3 measure52
+CHORD (C4 -G#4) 1
+CHORD (-C4 -G#4) 2
+CHORD (A#3 D4 -G#4) 6
+
+; ----------- measure 53 --- beat 630 --- time signature 6/2
+
+CHORD (A3 E4) 3 measure53
+CHORD (-A3 -E4 A4) 3
+CHORD (D4 -A4) 3
+CHORD (D4 B4) 3/2
+CHORD (-D4 A4) 3/2
+
+; ----------- measure 54 --- beat 642 --- time signature 6/2
+
+CHORD (A3 C4 -A4) 3/2 measure54
+CHORD (-A3 -C4 G4) 3/2
+CHORD (A3 C4 -G4) 3/2
+CHORD (-A3 -C4 F4) 3/2
+CHORD (A#3 D4 -F4) 3/2
+CHORD (-A#3 -D4 E4) 3/2
+CHORD (A3 C4 -E4) 3/2
+CHORD (-A3 -C4 D4) 3/2
+
+; ----------- measure 55 --- beat 654 --- time signature 6/2
+
+CHORD (G3 A#3 -D4) 3/2 measure55
+CHORD (-G3 -A#3 E4) 3/2
+CHORD (A3 C4 -E4) 3/2
+CHORD (-A3 C4) 3/2
+CHORD (G3 D4) 3
+CHORD (G3 D4) 3
+
+; ----------- measure 56 --- beat 666 --- time signature 6/2
+
+CHORD (A3 A4) 3 measure56
+NOTE D4 3
+CHORD (A3 E4 A4) 3
+CHORD (-A3 -E4 B4) 1
+CHORD (-A3 C4 -B4) 1/2
+CHORD (-A3 -C4 A4) 3/2
+
+; ----------- measure 57 --- beat 678 --- time signature 6/2
+
+CHORD (-C4 -A4) 3/2 measure57
+CHORD (-C4 E4) 1/2
+CHORD (A3 -C4 -E4) 1
+CHORD (-A3 -C4 E4) 3
+CHORD (A#3 G4) 3/2
+CHORD (-A#3 F4) 5/2
+CHORD (A3 C4 -F4) 1/2
+CHORD (-A3 -C4 E4) 3/2
+
+; ----------- measure 58 --- beat 690 --- time signature 6/2
+
+CHORD (G3 D4) 2 measure58
+CHORD (-G3 -D4 E4) 2
+CHORD (-G3 C4 F4) 2
+CHORD (A#3 G4) 4
+CHORD (-A#3 D4 F#4) 2
+
+; ----------- measure 59 --- beat 702 --- time signature 3/2
+
+CHORD (A3 C#4 F#4) 2 measure59
+CHORD (-A3 -C#4 G4) 2
+CHORD (-A3 -C#4 E4) 2
+
+; ----------- measure 60 --- beat 708 --- time signature 12/2
+
+CHORD (G3 D4 G4) 24 measure60
+
+; ----------- measure 61 --- beat 732 --- time signature 6/2
+
+CHORD (G3 D4 D5) 12 measure61
+
+; ----------- measure 62 --- beat 744 --- time signature 6/2
+
+CHORD (C4 E4 C5) 6 measure62
+CHORD (G3 D4 B4) 6
+
+; ----------- measure 63 --- beat 756 --- time signature 6/2
+
+CHORD (A3 A4) 4 measure63
+CHORD (D4 F4 -A4) 2
+CHORD (C4 E4 C5) 4
+CHORD (-C4 -E4 B4) 2
+
+; ----------- measure 64 --- beat 768 --- time signature 6/2
+
+NOTE D4 2 measure64
+CHORD (-D4 A4) 4
+CHORD (A3 E4 -A4) 6
+
+; ----------- measure 65 --- beat 780 --- time signature 6/2
+
+CHORD (C4 -E4 -A4) 2 measure65
+CHORD (-C4 -E4 G4) 4
+CHORD (G3 D4 -G4) 2
+CHORD (-G3 -D4 A4) 2
+CHORD (-G3 -D4 B4) 2
+
+; ----------- measure 66 --- beat 792 --- time signature 6/2
+
+CHORD (A3 -B4) 2 measure66
+CHORD (-A3 A4) 2
+CHORD (-A3 E4 -A4) 2
+CHORD (C4 E4 -A4) 2
+CHORD (-C4 -E4 G4) 2
+CHORD (C4 -G4) 2
+
+; ----------- measure 67 --- beat 804 --- time signature 6/2
+
+CHORD (-C4 -G4) 2 measure67
+CHORD (A3 -C4 A4) 2
+CHORD (-A3 -C4 F4) 2
+CHORD (G3 G4) 2
+CHORD (-G3 A4) 2
+CHORD (A#3 D4 F4) 2
+
+; ----------- measure 68 --- beat 816 --- time signature 6/2
+
+CHORD (A3 E4 A4) 2 measure68
+CHORD (-A3 D4) 2
+CHORD (-A3 C4 E4) 1
+CHORD (-A3 A#3 -E4) 1
+CHORD (A3 C4 E4) 4
+CHORD (-A3 -C4 D4) 2
+
+; ----------- measure 69 --- beat 828 --- time signature 6/2
+
+CHORD (G3 A#3 -D4) 2 measure69
+CHORD (-G3 -A#3 F4) 2
+CHORD (-G3 -A#3 E4) 2
+CHORD (A3 D4) 2
+CHORD (-A3 E4) 2
+CHORD (A3 C#4) 2
+
+; ----------- measure 70 --- beat 840 --- time signature 6/2
+
+CHORD (G3 D4) 2 measure70
+CHORD (A3 -D4) 2
+CHORD (G3 A#3 -D4) 2
+CHORD (A3 C4) 4
+CHORD (A#3 D4 G4) 2
+
+; ----------- measure 71 --- beat 852 --- time signature 6/2
+
+CHORD (A3 E4 A4) 4 measure71
+CHORD (-A3 E4) 2
+CHORD (-A3 E4) 4
+CHORD (A3 -E4) 2
+
+; ----------- measure 72 --- beat 864 --- time signature 6/2
+
+CHORD (A3 C4) 2 measure72
+CHORD (-A3 -C4 E4) 2
+CHORD (G3 A#3 F4) 2
+CHORD (-G3 A#3 G4) 2
+CHORD (-A#3 C4 -G4) 2
+CHORD (A3 -C4 F#4) 2
+
+; ----------- measure 73 --- beat 876 --- time signature 6/2
+
+CHORD (G3 D4 G4) 4 measure73
+CHORD (-G3 E4 -G4) 2
+CHORD (D4 F4) 4
+CHORD (-D4 -F4 A4) 2
+
+; ----------- measure 74 --- beat 888 --- time signature 6/2
+
+CHORD (E4 B4) 4 measure74
+CHORD (C4 -E4 C5) 2
+CHORD (D4 A4) 4
+CHORD (D4 G4) 2
+
+; ----------- measure 75 --- beat 900 --- time signature 6/2
+
+CHORD (G3 D4 G4) 2 measure75
+CHORD (-G3 -D4 A4) 2
+CHORD (-G3 C4 G4) 2
+CHORD (A#3 D4 F4) 1
+CHORD (-A#3 -D4 E4) 1
+CHORD (-A#3 -D4 F4) 1
+CHORD (-A#3 -D4 G4) 1
+CHORD (-A#3 -D4 F4) 1
+CHORD (-A#3 -D4 G4) 1
+
+; ----------- measure 76 --- beat 912 --- time signature 6/2
+
+CHORD (C4 E4) 1 measure76
+CHORD (-C4 D4) 1
+CHORD (-C4 E4) 1
+CHORD (-C4 F4) 1
+CHORD (A3 -C4 E4) 1
+CHORD (-A3 -C4 F4) 1
+CHORD (G3 A#3 D4) 4
+CHORD (-G3 -A#3 E4) 2
+
+; ----------- measure 77 --- beat 924 --- time signature 6/2
+
+CHORD (A3 C4 E4) 4 measure77
+CHORD (A#3 -C4 D4) 2
+CHORD (G3 A#3 D4) 4
+CHORD (-G3 -A#3 C4) 2
+
+; ----------- measure 78 --- beat 936 --- time signature 6/2
+
+CHORD (A3 C#4 E4) 12 measure78
+
+; ----------- measure 79 --- beat 948 --- time signature 6/2
+
+CHORD (G3 D4 G4) 10 measure79
+CHORD (-G3 -D4 E4) 2
+
+; ----------- measure 80 --- beat 960 --- time signature 6/2
+
+CHORD (A3 C4 F#4) 6 measure80
+CHORD (G3 A#3 G4) 6
+
+; ----------- measure 81 --- beat 972 --- time signature 6/2
+
+CHORD (A3 A4) 4 measure81
+CHORD (-A3 -A4) 2
+CHORD (G3 D4) 4
+NOTE D4 2
+
+; ----------- measure 82 --- beat 984 --- time signature 6/2
+
+CHORD (A3 C4) 2 measure82
+CHORD (-A3 -C4 C5) 2
+CHORD (-A3 D4 -C5) 2
+CHORD (C4 E4 -C5) 4
+CHORD (-C4 -E4 B4) 2
+
+; ----------- measure 83 --- beat 996 --- time signature 6/2
+
+CHORD (D4 -B4) 2 measure83
+CHORD (-D4 A4) 2
+CHORD (D4 -A4) 2
+CHORD (G3 D4 G4) 2
+CHORD (-G3 -D4) 2
+CHORD (-G3 -D4 D5) 2
+
+; ----------- measure 84 --- beat 1008 --- time signature 6/2
+
+CHORD (-G3 -D4 D5) 4 measure84
+CHORD (-G3 -D4 A4) 2
+CHORD (D4 A4) 2
+CHORD (-D4 C5) 2
+CHORD (G3 -D4 B4) 2
+
+; ----------- measure 85 --- beat 1020 --- time signature 6/2
+
+CHORD (A3 C4 A4) 4 measure85
+CHORD (A#3 G4) 2
+CHORD (A3 D4 A4) 2
+CHORD (-A3 -D4) 2
+CHORD (-A3 -D4 E4) 2
+
+; ----------- measure 86 --- beat 1032 --- time signature 6/2
+
+CHORD (G3 E4) 4 measure86
+CHORD (D4 A4) 2
+CHORD (D4 A4) 2
+CHORD (-D4 C5) 2
+CHORD (D4 B4) 2
+
+; ----------- measure 87 --- beat 1044 --- time signature 6/2
+
+CHORD (-D4 F4 B4) 4 measure87
+CHORD (-D4 -F4 A4) 2
+CHORD (E4 G#4) 4
+CHORD (C4 -E4 -G#4) 2
+
+; ----------- measure 88 --- beat 1056 --- time signature 6/2
+
+CHORD (B3 -G#4) 4 measure88
+CHORD (-B3 D4 -G#4) 2
+CHORD (A3 E4) 3
+CHORD (-A3 -E4 A4) 3
+
+; ----------- measure 89 --- beat 1068 --- time signature 6/2
+
+CHORD (D4 -A4) 3 measure89
+CHORD (D4 B4) 3/2
+CHORD (-D4 A4) 3/2
+CHORD (A3 C4 -A4) 3/2
+CHORD (-A3 -C4 G4) 3/2
+CHORD (A3 C4 -G4) 3/2
+CHORD (-A3 -C4 F4) 3/2
+
+; ----------- measure 90 --- beat 1080 --- time signature 6/2
+
+CHORD (A#3 D4 -F4) 3/2 measure90
+CHORD (-A#3 -D4 E4) 3/2
+CHORD (A3 C4 -E4) 3/2
+CHORD (-A3 -C4 D4) 3/2
+CHORD (G3 A#3 -D4) 3/2
+CHORD (-G3 -A#3 E4) 3/2
+CHORD (A3 C4 -E4) 3/2
+CHORD (-A3 C4) 3/2
+
+; ----------- measure 91 --- beat 1092 --- time signature 6/2
+
+CHORD (G3 D4) 3 measure91
+CHORD (G3 D4) 3
+CHORD (A3 A4) 3
+NOTE D4 3
+
+; ----------- measure 92 --- beat 1104 --- time signature 6/2
+
+CHORD (A3 E4 A4) 3 measure92
+CHORD (-A3 -E4 B4) 1
+CHORD (-A3 C4 -B4) 1/2
+CHORD (-A3 -C4 A4) 3/2
+CHORD (-C4 -A4) 3/2
+CHORD (-C4 E4) 1/2
+CHORD (A3 -C4 -E4) 1
+CHORD (-A3 -C4 E4) 3
+
+; ----------- measure 93 --- beat 1116 --- time signature 6/2
+
+CHORD (A#3 G4) 3/2 measure93
+CHORD (-A#3 F4) 5/2
+CHORD (A3 C4 -F4) 1/2
+CHORD (-A3 -C4 E4) 3/2
+CHORD (G3 D4) 2
+CHORD (-G3 -D4 E4) 2
+CHORD (-G3 C4 F4) 2
+
+; ----------- measure 94 --- beat 1128 --- time signature 6/2
+
+CHORD (A#3 G4) 4 measure94
+CHORD (-A#3 D4 F#4) 2
+CHORD (A3 C#4 F#4) 2
+CHORD (-A3 -C#4 G4) 2
+CHORD (-A3 -C#4 E4) 2
+
+; ----------- measure 95 --- beat 1140 --- time signature 12/2
+
+CHORD (G3 D4 G4) 24 measure95
+
+; ----------- measure 96 --- beat 1164 --- time signature 12/2
+
