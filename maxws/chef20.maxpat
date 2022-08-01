@@ -48,7 +48,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 417.0, 136.0, 491.0, 22.0 ],
-					"presentation_linecount" : 3,
 					"text" : "score /Users/jonathanbell/Documents/GitHub/chef20/antescofo/score-to-antescofo.asco.txt"
 				}
 
@@ -1406,7 +1405,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "" ],
-									"patching_rect" : [ 229.0, 512.0, 267.0, 22.0 ],
+									"patching_rect" : [ 229.0, 512.0, 274.0, 22.0 ],
 									"saved_object_attributes" : 									{
 										"autostart" : 1,
 										"defer" : 0,
@@ -1415,7 +1414,7 @@
 										"watch" : 1
 									}
 ,
-									"text" : "node.script maxserver.js @autostart 1 @watch 1"
+									"text" : "node.script maxservers.js @autostart 1 @watch 1"
 								}
 
 							}
@@ -2725,9 +2724,9 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "maxserver.js",
-				"bootpath" : "~/Documents/GitHub/brest",
-				"patcherrelativepath" : "../../brest",
+				"name" : "maxservers.js",
+				"bootpath" : "~/Documents/GitHub/chef20/maxws",
+				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
