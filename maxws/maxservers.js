@@ -143,9 +143,9 @@ Max.addHandler('rate', (dir) => {
 //    Max.post(file.data.lag);
 
 //   Max.post(`send`);
-//   connects.forEach(socket => {  
+//   connects.forEach(socket => {
 //     socket.send(JSON.stringify(file));
-    
+
 //   });
 // });
 
@@ -158,8 +158,8 @@ Max.addHandler('sop', (toto) => {
    file.set("when", when);
    Max.post(file.data.lag);
   Max.post(`send`);
-  connects.forEach(socket => {  
-    socket.send("sop "+ toto+" "+ when ); 
+  connects.forEach(socket => {
+    socket.send("sop "+ toto+" "+ when );
   });
 });
 
@@ -171,8 +171,8 @@ Max.addHandler('alt', (toto) => {
    file.set("when", when);
    Max.post(file.data.lag);
   Max.post(`send`);
-  connects.forEach(socket => {  
-    socket.send("alt "+ toto +" "+ when); 
+  connects.forEach(socket => {
+    socket.send("alt "+ toto +" "+ when);
   });
 });
 
@@ -184,8 +184,8 @@ Max.addHandler('ten', (toto) => {
    file.set("when", when);
    Max.post(file.data.lag);
   Max.post(`send`);
-  connects.forEach(socket => {  
-    socket.send("ten "+ toto+" "+ when); 
+  connects.forEach(socket => {
+    socket.send("ten "+ toto+" "+ when);
   });
 });
 
@@ -197,8 +197,21 @@ Max.addHandler('bas', (toto) => {
    file.set("when", when);
    Max.post(file.data.lag);
   Max.post(`send`);
-  connects.forEach(socket => {  
-    socket.send("bas "+ toto+" "+ when); 
+  connects.forEach(socket => {
+    socket.send("bas "+ toto+" "+ when);
+  });
+});
+
+Max.addHandler('sop2', (toto) => {
+  const timetag = Date.now();
+  Max.post(`now   `+timetag);
+  var when = timetag+ file.data.lag;
+   Max.post(`when `+ when);
+   file.set("when", when);
+   Max.post(file.data.lag);
+  Max.post(`send`);
+  connects.forEach(socket => {
+    socket.send("sop2 "+ toto+" "+ when);
   });
 });
 
@@ -249,7 +262,7 @@ app.ws('/', (ws, req) => {
     // console.log('second : '+second + ' typeof : ' + typeof second);
     // var seekValue = parseInt(words[1]);
     // var vid = document.getElementById('vid');
-    
+
 
 
 
@@ -292,12 +305,12 @@ app.ws('/', (ws, req) => {
 //     console.log("what's triggering? " + second);
 //     console.log(file.get());
 //     // code block
-// } 
+// }
 
 
 
     connects.forEach(socket => {
-      
+
       socket.send(message + ' '+  JSON.stringify(file));
       // socket.send(file);
     });
@@ -305,7 +318,7 @@ app.ws('/', (ws, req) => {
 
 
   });
-  
+
   ws.on('close', () => {
     connects = connects.filter(conn => {
       return (conn === ws) ? false : true;
@@ -322,8 +335,3 @@ app.use('/timesync', timesyncServer.requestHandler);
 app.listen(app.get('port'), () => {
   console.log('Server listening on port %s', app.get('port'));
 });
-
-
-
-
-
