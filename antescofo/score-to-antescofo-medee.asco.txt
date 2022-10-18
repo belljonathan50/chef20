@@ -1,0 +1,2144 @@
+BPM 60
+NOTE C2 1  mes1...
+group @tight 
+{
+sop 69.0000
+2 sop 69.0000
+1/2 sop 67.0000
+}
+
+group @tight 
+{
+alt 50.0000
+}
+
+group @tight 
+{
+ten 62.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 71.0000
+1/2 sop 69.0000
+1 sop 65.0000
+1/2 sop 65.0000
+}
+
+group @tight 
+{
+1/2 alt 53.0000
+1/2 alt 53.0000
+3/2 alt 55.0000
+}
+
+group @tight 
+{
+ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+3/2 sop 64.0000
+1/2 sop 64.0000
+}
+
+group @tight 
+{
+alt 48.0000
+3/2 alt none
+1/2 alt none
+1/2 alt 52.0000
+}
+
+group @tight 
+{
+ten 55.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 65.0000
+3/2 sop 62.0000
+1/2 sop 64.0000
+1/2 sop 61.0000
+}
+
+group @tight 
+{
+alt 53.0000
+1/2 alt 52.0000
+1/2 alt 53.0000
+1/2 alt none
+1/2 alt 56.0000
+1/2 alt 54.0000
+}
+
+group @tight 
+{
+ten 57.0000
+3/2 ten 52.0000
+1/2 ten 52.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+3/2 sop none
+1/2 sop none
+}
+
+group @tight 
+{
+alt 57.0000
+3/2 alt 55.0000
+1/2 alt 55.0000
+}
+
+group @tight 
+{
+ten 50.0000
+3/2 ten 62.0000
+1/2 ten 62.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 60.0000
+1/3 sop 62.0000
+1/3 sop 64.0000
+1/3 sop none
+1/3 sop 69.0000
+1/3 sop 67.0000
+1/3 sop 67.0000
+2/3 sop 66.0000
+}
+
+group @tight 
+{
+1/2 alt 48.0000
+1 alt 55.0000
+1/2 alt 55.0000
+}
+
+group @tight 
+{
+ten 60.0000
+3/2 ten 59.0000
+1/2 ten 59.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+1 sop none
+1/3 sop 71.0000
+1/3 sop 69.0000
+1/3 sop 67.0000
+1/3 sop 69.0000
+1/3 sop 66.0000
+}
+
+group @tight 
+{
+alt 50.0000
+}
+
+group @tight 
+{
+ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 68.0000
+}
+
+group @tight 
+{
+1/2 alt 56.0000
+1/2 alt 56.0000
+1 alt 57.0000
+1/2 alt 59.0000
+}
+
+group @tight 
+{
+ten 59.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+1/3 sop 67.0000
+1/3 sop 69.0000
+1/3 sop 69.0000
+1/3 sop 65.0000
+1/3 sop 64.0000
+1/3 sop 64.0000
+2/3 sop 65.0000
+}
+
+group @tight 
+{
+alt 60.0000
+}
+
+group @tight 
+{
+ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+1/3 sop 64.0000
+1/3 sop 65.0000
+1/3 sop 62.0000
+1/3 sop 64.0000
+1/3 sop 65.0000
+1/3 sop 64.0000
+1/3 sop 65.0000
+1/3 sop 62.0000
+}
+
+group @tight 
+{
+alt 62.0000
+1/2 alt 59.0000
+1/2 alt 59.0000
+3/2 alt 55.0000
+}
+
+group @tight 
+{
+ten 55.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 61.0000
+}
+
+group @tight 
+{
+alt 54.0000
+3/2 alt none
+1/2 alt none
+1/2 alt 56.0000
+}
+
+group @tight 
+{
+ten 57.0000
+3/2 ten 52.0000
+1/2 ten 52.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+1/2 sop 62.0000
+1 sop 64.0000
+1/2 sop 64.0000
+}
+
+group @tight 
+{
+alt 57.0000
+1/3 alt 59.0000
+1/3 alt 60.0000
+1/3 alt 60.0000
+1/6 alt 57.0000
+2/3 alt 59.0000
+1/6 alt 59.0000
+2/3 alt 55.0000
+}
+
+group @tight 
+{
+ten 53.0000
+3/2 ten 55.0000
+1/2 ten 55.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+1 sop none
+1/2 sop 69.0000
+1/2 sop 69.0000
+1/2 sop 65.0000
+}
+
+group @tight 
+{
+alt 57.0000
+3/2 alt 62.0000
+1/4 alt 60.0000
+1/4 alt 60.0000
+1/4 alt 62.0000
+1/4 alt 57.0000
+}
+
+group @tight 
+{
+ten 50.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 65.0000
+1/2 sop 69.0000
+1/2 sop 71.0000
+1/2 sop 69.0000
+1/2 sop 69.0000
+1/2 sop 62.0000
+}
+
+group @tight 
+{
+alt 57.0000
+1 alt 57.0000
+3/4 alt 53.0000
+1/4 alt 53.0000
+2/3 alt 57.0000
+}
+
+group @tight 
+{
+ten 50.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+1/2 sop 60.0000
+1/2 sop 62.0000
+1/2 sop 59.0000
+1/2 sop 57.0000
+}
+
+group @tight 
+{
+alt 55.0000
+3/4 alt none
+1/4 alt none
+1/2 alt 50.0000
+1/2 alt 50.0000
+2/3 alt 53.0000
+}
+
+group @tight 
+{
+ten 55.0000
+3/2 ten 57.0000
+1/2 ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+1/2 sop 59.0000
+1/2 sop 60.0000
+1/2 sop 62.0000
+1/2 sop 62.0000
+1/2 sop 62.0000
+}
+
+group @tight 
+{
+alt 55.0000
+1/3 alt 52.0000
+2/3 alt 52.0000
+1/8 alt 57.0000
+3/8 alt 59.0000
+3/8 alt 57.0000
+1/8 alt 57.0000
+2/3 alt 55.0000
+}
+
+group @tight 
+{
+ten 55.0000
+3/2 ten 53.0000
+1/2 ten 53.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 64.0000
+}
+
+group @tight 
+{
+alt 59.0000
+}
+
+group @tight 
+{
+ten 52.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 64.0000
+}
+
+group @tight 
+{
+alt 59.0000
+}
+
+group @tight 
+{
+ten 52.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+2 sop 69.0000
+1/2 sop 67.0000
+}
+
+group @tight 
+{
+alt 50.0000
+}
+
+group @tight 
+{
+ten 62.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 71.0000
+1/2 sop 69.0000
+1 sop 65.0000
+1/2 sop 65.0000
+}
+
+group @tight 
+{
+1/2 alt 53.0000
+1/2 alt 53.0000
+3/2 alt 55.0000
+}
+
+group @tight 
+{
+ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+3/2 sop 64.0000
+1/2 sop 64.0000
+}
+
+group @tight 
+{
+alt 48.0000
+3/2 alt none
+1/2 alt none
+1/2 alt 52.0000
+}
+
+group @tight 
+{
+ten 55.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 65.0000
+3/2 sop 62.0000
+1/2 sop 64.0000
+1/2 sop 61.0000
+}
+
+group @tight 
+{
+alt 53.0000
+1/2 alt 52.0000
+1/2 alt 53.0000
+1/2 alt none
+1/2 alt 56.0000
+1/2 alt 54.0000
+}
+
+group @tight 
+{
+ten 57.0000
+3/2 ten 52.0000
+1/2 ten 52.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+3/2 sop none
+1/2 sop none
+}
+
+group @tight 
+{
+alt 57.0000
+3/2 alt 55.0000
+1/2 alt 55.0000
+}
+
+group @tight 
+{
+ten 50.0000
+3/2 ten 62.0000
+1/2 ten 62.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 60.0000
+1/3 sop 62.0000
+1/3 sop 64.0000
+1/3 sop none
+1/3 sop 69.0000
+1/3 sop 67.0000
+1/3 sop 67.0000
+2/3 sop 66.0000
+}
+
+group @tight 
+{
+1/2 alt 48.0000
+1 alt 55.0000
+1/2 alt 55.0000
+}
+
+group @tight 
+{
+ten 60.0000
+3/2 ten 59.0000
+1/2 ten 59.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+1 sop none
+1/3 sop 71.0000
+1/3 sop 69.0000
+1/3 sop 67.0000
+1/3 sop 69.0000
+1/3 sop 66.0000
+}
+
+group @tight 
+{
+alt 50.0000
+}
+
+group @tight 
+{
+ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 68.0000
+}
+
+group @tight 
+{
+1/2 alt 56.0000
+1/2 alt 56.0000
+1 alt 57.0000
+1/2 alt 59.0000
+}
+
+group @tight 
+{
+ten 59.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+1/3 sop 67.0000
+1/3 sop 69.0000
+1/3 sop 69.0000
+1/3 sop 65.0000
+1/3 sop 64.0000
+1/3 sop 64.0000
+2/3 sop 65.0000
+}
+
+group @tight 
+{
+alt 60.0000
+}
+
+group @tight 
+{
+ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+1/3 sop 64.0000
+1/3 sop 65.0000
+1/3 sop 62.0000
+1/3 sop 64.0000
+1/3 sop 65.0000
+1/3 sop 64.0000
+1/3 sop 65.0000
+1/3 sop 62.0000
+}
+
+group @tight 
+{
+alt 62.0000
+1/2 alt 59.0000
+1/2 alt 59.0000
+3/2 alt 55.0000
+}
+
+group @tight 
+{
+ten 55.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 61.0000
+}
+
+group @tight 
+{
+alt 54.0000
+3/2 alt none
+1/2 alt none
+1/2 alt 56.0000
+}
+
+group @tight 
+{
+ten 57.0000
+3/2 ten 52.0000
+1/2 ten 52.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+1/2 sop 62.0000
+1 sop 64.0000
+1/2 sop 64.0000
+}
+
+group @tight 
+{
+alt 57.0000
+1/3 alt 59.0000
+1/3 alt 60.0000
+1/3 alt 60.0000
+1/6 alt 57.0000
+2/3 alt 59.0000
+1/6 alt 59.0000
+2/3 alt 55.0000
+}
+
+group @tight 
+{
+ten 53.0000
+3/2 ten 55.0000
+1/2 ten 55.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+1 sop none
+1/2 sop 69.0000
+1/2 sop 69.0000
+1/2 sop 65.0000
+}
+
+group @tight 
+{
+alt 57.0000
+3/2 alt 62.0000
+1/4 alt 60.0000
+1/4 alt 60.0000
+1/4 alt 62.0000
+1/4 alt 57.0000
+}
+
+group @tight 
+{
+ten 50.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 65.0000
+1/2 sop 69.0000
+1/2 sop 71.0000
+1/2 sop 69.0000
+1/2 sop 69.0000
+1/2 sop 62.0000
+}
+
+group @tight 
+{
+alt 57.0000
+1 alt 57.0000
+3/4 alt 53.0000
+1/4 alt 53.0000
+2/3 alt 57.0000
+}
+
+group @tight 
+{
+ten 50.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+1/2 sop 60.0000
+1/2 sop 62.0000
+1/2 sop 59.0000
+1/2 sop 57.0000
+}
+
+group @tight 
+{
+alt 55.0000
+3/4 alt none
+1/4 alt none
+1/2 alt 50.0000
+1/2 alt 50.0000
+2/3 alt 53.0000
+}
+
+group @tight 
+{
+ten 55.0000
+3/2 ten 57.0000
+1/2 ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+1/2 sop 59.0000
+1/2 sop 60.0000
+1/2 sop 62.0000
+1/2 sop 64.0000
+1/2 sop 61.0000
+}
+
+group @tight 
+{
+alt 55.0000
+1/3 alt 52.0000
+2/3 alt 52.0000
+1/8 alt 57.0000
+3/8 alt 59.0000
+3/8 alt 56.0000
+1/8 alt 56.0000
+2/3 alt 54.0000
+}
+
+group @tight 
+{
+ten 55.0000
+3/2 ten 52.0000
+1/2 ten 52.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+}
+
+group @tight 
+{
+alt 57.0000
+}
+
+group @tight 
+{
+ten 50.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+}
+
+group @tight 
+{
+alt 57.0000
+}
+
+group @tight 
+{
+ten 50.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 65.0000
+1/2 sop 64.0000
+1/2 sop 65.0000
+1/2 sop 67.0000
+1/2 sop 65.0000
+}
+
+group @tight 
+{
+alt 50.0000
+1 alt 50.0000
+1/2 alt 50.0000
+1/2 alt 50.0000
+1/2 alt 50.0000
+}
+
+group @tight 
+{
+ten 62.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 64.0000
+3/2 sop 62.0000
+1/2 sop 62.0000
+}
+
+group @tight 
+{
+alt 60.0000
+1 alt 59.0000
+1/2 alt 57.0000
+1/2 alt 59.0000
+1/2 alt 55.0000
+}
+
+group @tight 
+{
+ten 57.0000
+3/2 ten 59.0000
+1/2 ten 59.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 60.0000
+3/2 sop none
+1/2 sop 64.0000
+1/2 sop 65.0000
+}
+
+group @tight 
+{
+alt 53.0000
+1 alt 57.0000
+1 alt 53.0000
+}
+
+group @tight 
+{
+ten 60.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+1/4 sop 64.0000
+1/4 sop 65.0000
+1/4 sop 64.0000
+1/4 sop 65.0000
+1/4 sop 67.0000
+1/4 sop 64.0000
+1/4 sop 65.0000
+1/4 sop 67.0000
+1/4 sop 65.0000
+1/4 sop 65.0000
+1/4 sop 64.0000
+}
+
+group @tight 
+{
+alt 55.0000
+3/2 alt 50.0000
+1/2 alt 50.0000
+1/2 alt 53.0000
+}
+
+group @tight 
+{
+ten 58.0000
+3/2 ten 57.0000
+1/2 ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+3/2 sop none
+1/2 sop none
+}
+
+group @tight 
+{
+alt 48.0000
+2 alt 59.0000
+1/2 alt 60.0000
+}
+
+group @tight 
+{
+ten 55.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+1 sop 65.0000
+3/2 sop 69.0000
+}
+
+group @tight 
+{
+alt 62.0000
+2 alt 57.0000
+}
+
+group @tight 
+{
+ten 50.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+1/2 sop 64.0000
+1/2 sop 64.0000
+1 sop 65.0000
+}
+
+group @tight 
+{
+alt 57.0000
+1 alt 53.0000
+}
+
+group @tight 
+{
+ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+1 sop 69.0000
+1/2 sop 67.0000
+1/2 sop 67.0000
+1/2 sop 65.0000
+}
+
+group @tight 
+{
+1 alt 48.0000
+}
+
+group @tight 
+{
+ten 55.0000
+3/2 ten 60.0000
+1/2 ten 60.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+3/4 sop 71.0000
+1/4 sop 71.0000
+1/8 sop 69.0000
+3/8 sop 69.0000
+3/8 sop 67.0000
+1/8 sop 67.0000
+1/4 sop 67.0000
+1/4 sop 66.0000
+}
+
+group @tight 
+{
+alt 48.0000
+1 alt none
+1 alt 55.0000
+}
+
+group @tight 
+{
+ten 60.0000
+3/2 ten 59.0000
+1/2 ten 59.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+3/4 sop none
+1/4 sop none
+1/2 sop 71.0000
+1/4 sop 69.0000
+1/4 sop 69.0000
+2/3 sop 65.0000
+}
+
+group @tight 
+{
+alt 50.0000
+}
+
+group @tight 
+{
+ten 57.0000
+3/2 ten none
+1/2 ten none
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 65.0000
+1/3 sop 67.0000
+2/3 sop 67.0000
+1/6 sop 64.0000
+2/3 sop 65.0000
+1/6 sop 65.0000
+2/3 sop 62.0000
+}
+
+group @tight 
+{
+alt 52.0000
+1/2 alt 53.0000
+1/2 alt 55.0000
+1/2 alt none
+1/2 alt 50.0000
+1/2 alt 53.0000
+}
+
+group @tight 
+{
+ten 55.0000
+3/2 ten 53.0000
+1/2 ten 53.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 64.0000
+1/3 sop 60.0000
+2/3 sop 60.0000
+1/4 sop 64.0000
+3/4 sop 64.0000
+2/3 sop 60.0000
+}
+
+group @tight 
+{
+alt 48.0000
+}
+
+group @tight 
+{
+ten 52.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+1/3 sop 57.0000
+2/3 sop 57.0000
+3/4 sop 59.0000
+1/4 sop 59.0000
+}
+
+group @tight 
+{
+alt 50.0000
+3/2 alt 52.0000
+1/2 alt 52.0000
+1/2 alt 54.0000
+}
+
+group @tight 
+{
+ten 53.0000
+3/2 ten 52.0000
+1/2 ten 52.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 59.0000
+1/3 sop 61.0000
+2/3 sop 61.0000
+1/6 sop 59.0000
+1/3 sop 62.0000
+1/2 sop 62.0000
+1/4 sop none
+}
+
+group @tight 
+{
+alt 56.0000
+1 alt 54.0000
+1/2 alt 57.0000
+1/2 alt 57.0000
+}
+
+group @tight 
+{
+ten 52.0000
+3/2 ten 50.0000
+1/2 ten 50.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 60.0000
+1/4 sop 62.0000
+1/4 sop 64.0000
+1/2 sop 62.0000
+1/4 sop 64.0000
+1/2 sop 65.0000
+1/4 sop 64.0000
+1/2 sop 62.0000
+1/4 sop 60.0000
+}
+
+group @tight 
+{
+3/2 alt 53.0000
+1/2 alt 52.0000
+1/2 alt 53.0000
+}
+
+group @tight 
+{
+ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 59.0000
+1 sop 60.0000
+1/2 sop 62.0000
+1/2 sop 62.0000
+1/2 sop 60.0000
+}
+
+group @tight 
+{
+alt 55.0000
+1/3 alt 53.0000
+1/3 alt 55.0000
+1/3 alt 55.0000
+1/6 alt 52.0000
+2/3 alt 53.0000
+1/6 alt 53.0000
+2/3 alt 57.0000
+}
+
+group @tight 
+{
+ten 55.0000
+3/2 ten 57.0000
+1/2 ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+1/2 sop 69.0000
+1/2 sop 67.0000
+1/2 sop 67.0000
+1/2 sop 67.0000
+1/2 sop 65.0000
+}
+
+group @tight 
+{
+alt 57.0000
+1/3 alt 55.0000
+2/3 alt 55.0000
+1/6 alt 52.0000
+2/3 alt 55.0000
+1/6 alt 55.0000
+2/3 alt 55.0000
+}
+
+group @tight 
+{
+ten 59.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+1/2 sop 67.0000
+1/4 sop 69.0000
+1/4 sop 69.0000
+1/4 sop 71.0000
+1/4 sop 69.0000
+1/2 sop 67.0000
+1/4 sop 69.0000
+1/4 sop 65.0000
+1/4 sop 67.0000
+}
+
+group @tight 
+{
+alt 50.0000
+3/2 alt 60.0000
+1/2 alt 60.0000
+}
+
+group @tight 
+{
+ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+1/4 sop 65.0000
+1/4 sop 64.0000
+1/2 sop 65.0000
+1/4 sop 62.0000
+1/4 sop 64.0000
+1/2 sop 65.0000
+1/4 sop 64.0000
+1/4 sop 65.0000
+1/4 sop 62.0000
+}
+
+group @tight 
+{
+alt 62.0000
+3/2 alt none
+1/2 alt 59.0000
+1/2 alt 55.0000
+}
+
+group @tight 
+{
+ten 55.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 60.0000
+3/2 sop none
+1/2 sop 64.0000
+1/2 sop 65.0000
+}
+
+group @tight 
+{
+alt 53.0000
+1 alt 57.0000
+1 alt 53.0000
+}
+
+group @tight 
+{
+ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+1 sop 65.0000
+1/2 sop 67.0000
+1/2 sop 64.0000
+}
+
+group @tight 
+{
+1/2 alt 55.0000
+1/2 alt 57.0000
+1/2 alt 59.0000
+1/2 alt 57.0000
+}
+
+group @tight 
+{
+ten 55.0000
+3/2 ten 60.0000
+1/2 ten 60.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+1/2 sop none
+1/2 sop 69.0000
+1/2 sop 71.0000
+1/2 sop 69.0000
+}
+
+group @tight 
+{
+1/2 alt 55.0000
+1 alt 57.0000
+1/2 alt 53.0000
+}
+
+group @tight 
+{
+ten 62.0000
+3/2 ten 57.0000
+1/2 ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 68.0000
+}
+
+group @tight 
+{
+alt 52.0000
+}
+
+group @tight 
+{
+ten 59.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 68.0000
+}
+
+group @tight 
+{
+alt 52.0000
+}
+
+group @tight 
+{
+ten 59.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+}
+
+group @tight 
+{
+alt 53.0000
+1 alt 53.0000
+1/2 alt 57.0000
+1/2 alt 57.0000
+1/2 alt 53.0000
+}
+
+group @tight 
+{
+ten 60.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+1/2 sop 71.0000
+1/2 sop 69.0000
+1/2 sop 69.0000
+1/2 sop 69.0000
+1/2 sop 67.0000
+}
+
+group @tight 
+{
+alt 53.0000
+1/2 alt 57.0000
+1 alt 53.0000
+1/2 alt 53.0000
+1/2 alt 53.0000
+}
+
+group @tight 
+{
+ten 60.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+}
+
+group @tight 
+{
+alt 55.0000
+1 alt 52.0000
+}
+
+group @tight 
+{
+ten 59.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+1/2 sop 69.0000
+1/2 sop 67.0000
+1/2 sop 67.0000
+1/2 sop 67.0000
+1/2 sop 66.0000
+}
+
+group @tight 
+{
+alt 52.0000
+1 alt none
+1 alt 55.0000
+}
+
+group @tight 
+{
+ten 59.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+1 sop 64.0000
+1/2 sop 64.0000
+1/2 sop 66.0000
+}
+
+group @tight 
+{
+alt 50.0000
+2 alt 61.0000
+}
+
+group @tight 
+{
+ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+3/2 sop none
+1/2 sop none
+}
+
+group @tight 
+{
+alt 62.0000
+1 alt 60.0000
+1/2 alt 59.0000
+1/2 alt 59.0000
+1/2 alt 60.0000
+}
+
+group @tight 
+{
+ten 55.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+1 sop 71.0000
+1 sop 69.0000
+}
+
+group @tight 
+{
+alt 62.0000
+3/2 alt none
+1/2 alt none
+}
+
+group @tight 
+{
+ten 50.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+1/2 sop 65.0000
+1/2 sop 67.0000
+1/2 sop 64.0000
+1/2 sop 65.0000
+1/2 sop 62.0000
+}
+
+group @tight 
+{
+alt 55.0000
+3/2 alt none
+1/2 alt 57.0000
+1/2 alt 55.0000
+}
+
+group @tight 
+{
+3/2 ten 55.0000
+1/2 ten 55.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 61.0000
+}
+
+group @tight 
+{
+alt 54.0000
+}
+
+group @tight 
+{
+ten 57.0000
+1/2 ten 56.0000
+1/2 ten 57.0000
+1/2 ten 59.0000
+1/2 ten 57.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+1/2 sop 62.0000
+1 sop 64.0000
+1/2 sop 65.0000
+1/2 sop 67.0000
+}
+
+group @tight 
+{
+alt 55.0000
+3/2 alt 59.0000
+1/2 alt 59.0000
+}
+
+group @tight 
+{
+ten 55.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+1/2 sop 69.0000
+1 sop 68.0000
+1/2 sop 68.0000
+1/2 sop 66.0000
+}
+
+group @tight 
+{
+alt 61.0000
+}
+
+group @tight 
+{
+ten 52.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+1 sop none
+}
+
+group @tight 
+{
+alt 62.0000
+3/2 alt 57.0000
+1/2 alt 57.0000
+}
+
+group @tight 
+{
+ten 50.0000
+3/2 ten 61.0000
+1/2 ten 61.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 71.0000
+1/2 sop 69.0000
+1/2 sop 69.0000
+}
+
+group @tight 
+{
+alt 50.0000
+}
+
+group @tight 
+{
+ten 62.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 69.0000
+1/2 sop 65.0000
+1/2 sop 65.0000
+3/2 sop 67.0000
+}
+
+group @tight 
+{
+alt 50.0000
+}
+
+group @tight 
+{
+ten 62.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 64.0000
+}
+
+group @tight 
+{
+alt 60.0000
+1/3 alt 59.0000
+1/3 alt 60.0000
+1/3 alt 60.0000
+1/8 alt 57.0000
+3/8 alt 55.0000
+3/8 alt 52.0000
+1/8 alt 52.0000
+2/3 alt 55.0000
+}
+
+group @tight 
+{
+ten 57.0000
+3/2 ten 55.0000
+1/2 ten 55.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+1/2 sop 65.0000
+1/2 sop 65.0000
+3/2 sop 62.0000
+}
+
+group @tight 
+{
+alt 50.0000
+3/2 alt 57.0000
+1/4 alt 59.0000
+1/4 alt 59.0000
+1/4 alt 60.0000
+1/4 alt 57.0000
+}
+
+group @tight 
+{
+ten 53.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+1/2 sop 64.0000
+1/2 sop 64.0000
+3/2 sop 60.0000
+}
+
+group @tight 
+{
+alt 55.0000
+3/4 alt none
+1/4 alt none
+1/6 alt 53.0000
+1/3 alt 55.0000
+1/2 alt 55.0000
+1/4 alt 52.0000
+}
+
+group @tight 
+{
+ten 52.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+1/2 sop 57.0000
+1 sop 60.0000
+1/2 sop 60.0000
+1/2 sop 59.0000
+}
+
+group @tight 
+{
+alt 50.0000
+3/4 alt none
+1/4 alt none
+1/8 alt 57.0000
+3/8 alt 57.0000
+3/8 alt 56.0000
+1/8 alt 56.0000
+1/4 alt 56.0000
+1/4 alt 54.0000
+}
+
+group @tight 
+{
+ten 53.0000
+3/2 ten 52.0000
+1/2 ten 52.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+}
+
+group @tight 
+{
+alt 57.0000
+}
+
+group @tight 
+{
+ten 50.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 62.0000
+}
+
+group @tight 
+{
+alt 57.0000
+}
+
+group @tight 
+{
+ten 50.0000
+}
+
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
