@@ -1,0 +1,637 @@
+BPM 60
+NOTE C2 1 _1_11...
+group @tight 
+{
+3 sop 67.0000
+}
+
+group @tight 
+{
+3 alt 63.0000
+}
+
+group @tight 
+{
+3 ten 58.0000
+}
+
+group @tight 
+{
+3 bas 51.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 72.0000
+1 sop 70.0000
+1 sop 68.0000
+1 sop 67.0000
+}
+
+group @tight 
+{
+alt 63.0000
+1 alt 63.0000
+1 alt 63.0000
+1/2 alt 65.0000
+1/2 alt 65.0000
+1/2 alt 63.0000
+}
+
+group @tight 
+{
+ten 56.0000
+1 ten 58.0000
+1 ten 60.0000
+1/2 ten 58.0000
+1/2 ten 58.0000
+}
+
+group @tight 
+{
+bas 56.0000
+1 bas 55.0000
+1 bas 48.0000
+1/2 bas 50.0000
+1/2 bas 51.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 65.0000
+2 sop 67.0000
+1 sop 74.0000
+}
+
+group @tight 
+{
+alt 63.0000
+1 alt 62.0000
+1 alt 63.0000
+1 alt 65.0000
+}
+
+group @tight 
+{
+ten 60.0000
+1 ten 58.0000
+1 ten 58.0000
+1 ten 59.0000
+}
+
+group @tight 
+{
+bas 44.0000
+1 bas 46.0000
+1 bas 51.0000
+1 bas 50.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 75.0000
+1 sop 75.0000
+1 sop 74.0000
+1/2 sop 72.0000
+1/2 sop 74.0000
+}
+
+group @tight 
+{
+alt 63.0000
+1/2 alt 65.0000
+1/2 alt 67.0000
+1 alt 67.0000
+1 alt 67.0000
+1/2 alt 65.0000
+}
+
+group @tight 
+{
+ten 55.0000
+1 ten 60.0000
+1 ten 60.0000
+1 ten 59.0000
+}
+
+group @tight 
+{
+bas 48.0000
+1/2 bas 50.0000
+1/2 bas 51.0000
+1/2 bas 53.0000
+1/2 bas 55.0000
+1 bas 43.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 72.0000
+3 sop 67.0000
+}
+
+group @tight 
+{
+alt 63.0000
+3 alt 63.0000
+}
+
+group @tight 
+{
+ten 60.0000
+3 ten 58.0000
+}
+
+group @tight 
+{
+bas 48.0000
+3 bas 51.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 72.0000
+1 sop 70.0000
+1 sop 68.0000
+1 sop 67.0000
+}
+
+group @tight 
+{
+alt 63.0000
+1 alt 63.0000
+1 alt 63.0000
+1/2 alt 65.0000
+1/2 alt 65.0000
+1/2 alt 63.0000
+}
+
+group @tight 
+{
+ten 56.0000
+1 ten 58.0000
+1 ten 60.0000
+1/2 ten 58.0000
+1/2 ten 58.0000
+}
+
+group @tight 
+{
+bas 56.0000
+1 bas 55.0000
+1 bas 48.0000
+1/2 bas 50.0000
+1/2 bas 51.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 65.0000
+2 sop 67.0000
+1 sop 74.0000
+}
+
+group @tight 
+{
+alt 63.0000
+1 alt 62.0000
+1 alt 63.0000
+1 alt 65.0000
+}
+
+group @tight 
+{
+ten 60.0000
+1 ten 58.0000
+1 ten 58.0000
+1 ten 59.0000
+}
+
+group @tight 
+{
+bas 44.0000
+1 bas 46.0000
+1 bas 51.0000
+1 bas 50.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 75.0000
+1 sop 75.0000
+1 sop 74.0000
+1/2 sop 72.0000
+1/2 sop 74.0000
+}
+
+group @tight 
+{
+alt 63.0000
+1/2 alt 65.0000
+1/2 alt 67.0000
+1 alt 67.0000
+1 alt 67.0000
+1/2 alt 65.0000
+}
+
+group @tight 
+{
+ten 55.0000
+1 ten 60.0000
+1 ten 60.0000
+1 ten 59.0000
+}
+
+group @tight 
+{
+bas 48.0000
+1/2 bas 50.0000
+1/2 bas 51.0000
+1/2 bas 53.0000
+1/2 bas 55.0000
+1 bas 43.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 72.0000
+3 sop 75.0000
+}
+
+group @tight 
+{
+alt 63.0000
+3 alt 72.0000
+1/2 alt 70.0000
+}
+
+group @tight 
+{
+ten 60.0000
+3 ten 67.0000
+}
+
+group @tight 
+{
+bas 48.0000
+3 bas 60.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 74.0000
+1/2 sop 72.0000
+1/2 sop 70.0000
+1 sop 72.0000
+1 sop 74.0000
+}
+
+group @tight 
+{
+alt 70.0000
+1 alt 67.0000
+1/2 alt 65.0000
+1/2 alt 63.0000
+1 alt 68.0000
+}
+
+group @tight 
+{
+ten 65.0000
+1/2 ten 63.0000
+1/2 ten 62.0000
+1 ten 58.0000
+1/2 ten 58.0000
+1/2 ten 56.0000
+1/2 ten 58.0000
+}
+
+group @tight 
+{
+bas 53.0000
+1 bas 55.0000
+1 bas 56.0000
+1/2 bas 55.0000
+1/2 bas 53.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 75.0000
+2 sop 75.0000
+1 sop 70.0000
+}
+
+group @tight 
+{
+alt 68.0000
+1 alt 67.0000
+1/2 alt 65.0000
+1/2 alt 67.0000
+1 alt 67.0000
+}
+
+group @tight 
+{
+ten 60.0000
+1 ten 58.0000
+1/2 ten 56.0000
+1/2 ten 58.0000
+1 ten 63.0000
+}
+
+group @tight 
+{
+bas 51.0000
+2 bas 51.0000
+1 bas 51.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 72.0000
+1 sop 70.0000
+1 sop 68.0000
+1 sop 68.0000
+}
+
+group @tight 
+{
+alt 68.0000
+1 alt 67.0000
+1 alt 67.0000
+1 alt 65.0000
+}
+
+group @tight 
+{
+ten 63.0000
+1 ten 63.0000
+1/2 ten 62.0000
+1/2 ten 60.0000
+1 ten 60.0000
+}
+
+group @tight 
+{
+bas 56.0000
+1 bas 51.0000
+1 bas 53.0000
+1/2 bas 55.0000
+1/2 bas 56.0000
+1/2 bas 58.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+3 sop 75.0000
+}
+
+group @tight 
+{
+alt 64.0000
+3 alt 65.0000
+}
+
+group @tight 
+{
+ten 60.0000
+3 ten 60.0000
+}
+
+group @tight 
+{
+bas 60.0000
+3 bas 57.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 74.0000
+1/2 sop 75.0000
+1/2 sop 77.0000
+1 sop 75.0000
+1 sop 74.0000
+}
+
+group @tight 
+{
+alt 65.0000
+1 alt 65.0000
+1 alt 67.0000
+1 alt 65.0000
+}
+
+group @tight 
+{
+ten 58.0000
+1 ten 58.0000
+1/2 ten 57.0000
+1/2 ten 58.0000
+1/2 ten 60.0000
+1/2 ten 62.0000
+1/2 ten 58.0000
+}
+
+group @tight 
+{
+bas 58.0000
+1 bas 50.0000
+1 bas 55.0000
+1/2 bas 57.0000
+1/2 bas 58.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 72.0000
+2 sop 74.0000
+1 sop 67.0000
+}
+
+group @tight 
+{
+alt 67.0000
+1 alt 65.0000
+1 alt 65.0000
+1 alt 63.0000
+}
+
+group @tight 
+{
+ten 55.0000
+1/2 ten 60.0000
+1/2 ten 57.0000
+1 ten 58.0000
+1 ten 58.0000
+}
+
+group @tight 
+{
+bas 51.0000
+1 bas 53.0000
+1 bas 46.0000
+1 bas 51.0000
+1/2 bas 50.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 68.0000
+1 sop 67.0000
+1 sop 65.0000
+1 sop 70.0000
+}
+
+group @tight 
+{
+alt 63.0000
+1/2 alt 62.0000
+1/2 alt 63.0000
+1 alt 63.0000
+1 alt 62.0000
+}
+
+group @tight 
+{
+ten 56.0000
+1 ten 58.0000
+1 ten 60.0000
+1 ten 53.0000
+1/2 ten 58.0000
+}
+
+group @tight 
+{
+bas 48.0000
+1 bas 46.0000
+1 bas 44.0000
+1 bas 46.0000
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
+NOTE C2 1 _1_1  ; mes1...
+group @tight 
+{
+sop 67.0000
+3 sop none
+}
+
+group @tight 
+{
+alt 63.0000
+3 alt none
+}
+
+group @tight 
+{
+ten 58.0000
+3 ten none
+}
+
+group @tight 
+{
+bas 51.0000
+3 bas none
+}
+
+NOTE C#2 1 _1_2
+NOTE D2 1 _1_3
+NOTE D#2 1 _1_4
+
+
