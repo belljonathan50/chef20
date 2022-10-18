@@ -20,7 +20,7 @@
 #X msg 435 206 \; pd dsp 1;
 #X floatatom 539 281 5 0 0 1 step - -;
 #X floatatom 694 166 5 0 0 1 tempo - -;
-#X obj 421 86 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1
+#X obj 421 86 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
 1;
 #X floatatom 750 87 5 0 0 2 tempo - -;
 #X floatatom 705 66 5 0 0 2 quantum - -;
