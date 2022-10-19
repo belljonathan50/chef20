@@ -1,17 +1,52 @@
 BPM 60
 
-  	oscsend m1 192.168.1.41 : 4000 "/test"
-  	oscsend m2 192.168.1.42 : 4000 "/test"
-	oscsend m3 192.168.1.43 : 4000 "/test"
-  	oscsend m4 192.168.1.44 : 4000 "/test"
-    oscsend m5 192.168.1.45 : 4000 "/test"
-  	oscsend m6 192.168.1.46 : 4000 "/test"
-  	oscsend m7 192.168.1.47 : 4000 "/test"
-  	oscsend m8 192.168.1.48 : 4000 "/test"
+  	oscsend a1 192.168.1.24 : 4000 "/test"
+  	oscsend a2 192.168.1.28 : 4000 "/test"
+	oscsend a3 192.168.1.29 : 4000 "/test"
+  	oscsend a4 192.168.1.30 : 4000 "/test"
+    oscsend a5 192.168.1.44 : 4000 "/test"
+  	oscsend a6 192.168.1.45 : 4000 "/test"
+  	oscsend a7 192.168.1.46 : 4000 "/test"
+  	oscsend a8 192.168.1.47 : 4000 "/test"
+
+  	oscsend b1 192.168.1.31 : 4000 "/test"
+  	oscsend b2 192.168.1.32 : 4000 "/test"
+	oscsend b3 192.168.1.33 : 4000 "/test"
+  	oscsend b4 192.168.1.35 : 4000 "/test"
+    oscsend b5 192.168.1.48 : 4000 "/test"
+  	oscsend b6 192.168.1.49 : 4000 "/test"
+  	oscsend b7 192.168.1.50 : 4000 "/test"
+  	oscsend b8 192.168.1.51 : 4000 "/test"
+
+   	oscsend c1 192.168.1.36 : 4000 "/test"
+  	oscsend c2 192.168.1.37 : 4000 "/test"
+	oscsend c3 192.168.1.38 : 4000 "/test"
+  	oscsend c4 192.168.1.39 : 4000 "/test"
+    oscsend c5 192.168.1.52 : 4000 "/test"
+  	oscsend c6 192.168.1.53 : 4000 "/test"
+  	oscsend c7 192.168.1.54 : 4000 "/test"
+  	oscsend c8 192.168.1.55 : 4000 "/test"
+
+   	oscsend d1 192.168.1.40 : 4000 "/test"
+  	oscsend d2 192.168.1.41 : 4000 "/test"
+	oscsend d3 192.168.1.42 : 4000 "/test"
+  	oscsend d4 192.168.1.43 : 4000 "/test"
+    oscsend d5 192.168.1.60 : 4000 "/test"
+  	oscsend d6 192.168.1.61 : 4000 "/test"
+  	oscsend d7 192.168.1.62 : 4000 "/test"
+  	oscsend d8 192.168.1.64 : 4000 "/test"
 
 
 NOTE C2 1  mes1
-
+	
+	a1 17
+	a2 17
+	a3 17
+	a4 17
+	a5 17
+	a6 17
+	a7 17
+	a8 17
 
 NOTE D2 1 1b
 NOTE D#2 1 1c
@@ -24,6 +59,15 @@ NOTE D#2 1 2c
 
 
 NOTE C2 1 _3_1  ; mes3
+
+	b1 17
+	b2 17
+	b3 17
+	b4 17
+	b5 17
+	b6 17
+	b7 17
+	b8 17
 
 NOTE D2 1 3b
 NOTE D#2 1 3c
@@ -38,6 +82,15 @@ NOTE D#2 1 4c
 
 NOTE C2 1 _5_1  ; mes5
 
+	c1 17
+	c2 17
+	c3 17
+	c4 17
+	c5 17
+	c6 17
+	c7 17
+	c8 17
+
 NOTE D2 1 5b
 NOTE D#2 1 5c
 
@@ -50,7 +103,14 @@ NOTE D#2 1 6c
 
 
 NOTE C2 1 _7_1  ; mes7
-
+	d1 17
+	d2 17
+	d3 17
+	d4 17
+	d5 17
+	d6 17
+	d7 17
+	d8 17
 
 NOTE D2 1 7b
 NOTE D#2 1 7c
@@ -61,4 +121,196 @@ NOTE C2 1 _8_1  ; mes8
 
 NOTE D2 1 8b
 NOTE D#2 1 8c
+
+
+NOTE C2 1 _9_1  ; mes9
+
+	
+	a1 18
+	a2 18
+	a3 18
+	a4 18
+	a5 18
+	a6 18
+	a7 18
+	a8 18
+
+
+NOTE D2 1 9b
+NOTE D#2 1 9c
+
+
+
+NOTE C2 1 _10_1  ; mes10
+
+
+NOTE D2 1 10b
+NOTE D#2 1 10c
+
+
+NOTE C2 1 _11_1  ; mes11
+
+	b1 18
+	b2 18
+	b3 18
+	b4 18
+	b5 18
+	b6 18
+	b7 18
+	b8 18
+
+
+NOTE D2 1 11b
+NOTE D#2 1 11c
+
+
+NOTE C2 1 _12_1  ; mes12
+
+
+NOTE D2 1 12b
+NOTE D#2 1 12c
+
+
+NOTE C2 1 _13_1  ; mes13
+
+
+	c1 18
+	c2 18
+	c3 18
+	c4 18
+	c5 18
+	c6 18
+	c7 18
+	c8 18
+
+
+NOTE D2 1 13b
+NOTE D#2 1 13c
+
+
+NOTE C2 1 _14_1  ; mes14
+
+
+NOTE D2 1 14b
+NOTE D#2 1 14c
+
+
+NOTE C2 1 _15_1  ; mes15
+
+	d1 18
+	d2 18
+	d3 18
+	d4 18
+	d5 18
+	d6 18
+	d7 18
+	d8 18
+
+
+NOTE D2 1 15b
+NOTE D#2 1 15c
+
+
+NOTE C2 1 _16_1  ; mes16
+
+
+NOTE D2 1 16b
+NOTE D#2 1 16c
+
+
+NOTE C2 1 _17_1  ; mes17
+
+	a1 19
+	a2 19
+	a3 19
+	a4 19
+	a5 19
+	a6 19
+	a7 19
+	a8 19
+
+
+NOTE D2 1 17b
+NOTE D#2 1 17c
+
+
+NOTE C2 1 _18_1  ; mes18
+
+
+NOTE D2 1 18b
+NOTE D#2 1 18c
+
+
+NOTE C2 1 _19_1  ; mes19
+
+	b1 19
+	b2 19
+	b3 19
+	b4 19
+	b5 19
+	b6 19
+	b7 19
+	b8 19
+
+
+NOTE D2 1 19b
+NOTE D#2 1 19c
+
+NOTE C2 1 _20_1  ; mes20
+NOTE D2 1 20b
+NOTE D#2 1 20c
+
+NOTE C2 1 _21_1  ; mes21
+
+	c1 19
+	c2 19
+	c3 19
+	c4 19
+	c5 19
+	c6 19
+	c7 19
+	c8 19
+
+
+NOTE D2 1 21b
+NOTE D#2 1 21c
+
+NOTE C2 1 _22_1  ; mes22
+NOTE D2 1 22b
+NOTE D#2 1 22c
+
+NOTE C2 1 _23_1  ; mes23
+
+	d1 19
+	d2 19
+	d3 19
+	d4 19
+	d5 19
+	d6 19
+	d7 19
+	d8 19
+
+
+NOTE D2 1 23b
+NOTE D#2 1 23c
+
+NOTE C2 1 _24_1  ; mes24
+
+
+
+
+
+NOTE C2 1 _25_1  ; mes25
+
+
+
+
+
+
+
+
+
+
+
+
 
