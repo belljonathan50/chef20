@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 534.0, 53.0, 779.0, 496.0 ],
+		"rect" : [ 182.0, 90.0, 586.0, 723.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -40,6 +40,29 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-15",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 207.0, 312.0, 93.0, 22.0 ],
+					"text" : "prepend /tempo"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-11",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 207.0, 343.0, 165.0, 22.0 ],
+					"text" : "udpsend 192.168.1.216 8050"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 500.0,
 					"id" : "obj-5",
@@ -50,7 +73,7 @@
 					"patching_rect" : [ 667.5, 400.0, 1817.0, 567.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 667.5, 400.0, 2329.0, 567.0 ],
-					"text" : "3c"
+					"text" : "22c"
 				}
 
 			}
@@ -263,18 +286,6 @@
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 751.0, 61.0, 50.0, 22.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-10",
-					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 2,
-					"outlettype" : [ "bang", "" ],
-					"patching_rect" : [ 331.0, 361.0, 29.5, 22.0 ],
-					"text" : "sel"
 				}
 
 			}
@@ -1423,7 +1434,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 113.0, 110.0, 50.0, 22.0 ],
-									"text" : "102"
+									"text" : "127"
 								}
 
 							}
@@ -2693,8 +2704,6 @@
 									"saved_object_attributes" : 									{
 										"autostart" : 1,
 										"defer" : 0,
-										"node_bin_path" : "",
-										"npm_bin_path" : "",
 										"watch" : 1
 									}
 ,
@@ -2989,7 +2998,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ -241.0, -455.0, 589.0, 208.0 ],
+						"rect" : [ 34.0, 87.0, 589.0, 208.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -3017,7 +3026,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-7",
@@ -3026,7 +3034,6 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 479.0, 91.0, 74.0, 22.0 ],
-									"presentation_linecount" : 3,
 									"text" : "/antescont 4"
 								}
 
@@ -3039,7 +3046,6 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 448.0, 52.0, 74.0, 22.0 ],
-									"presentation_linecount" : 3,
 									"text" : "/antescont 3"
 								}
 
@@ -3052,7 +3058,6 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 408.0, 15.0, 74.0, 22.0 ],
-									"presentation_linecount" : 2,
 									"text" : "/antescont 1"
 								}
 
@@ -3079,7 +3084,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 160.0, 22.0, 50.0, 35.0 ],
-									"text" : "/antescont 4"
+									"text" : "/rewind 1"
 								}
 
 							}
@@ -3092,7 +3097,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 51.0, 59.0, 50.0, 35.0 ],
-									"text" : "/antescont 4"
+									"text" : "/rewind 1"
 								}
 
 							}
@@ -3212,12 +3217,6 @@
  ],
 						"styles" : [ 							{
 								"name" : "black on white",
-								"number" : 								{
-									"fontname" : [ "Arial" ],
-									"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-									"fontsize" : [ 12.0 ]
-								}
-,
 								"umenu" : 								{
 									"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 									"bgfillcolor" : 									{
@@ -3230,6 +3229,12 @@
 										"autogradient" : 0
 									}
 
+								}
+,
+								"number" : 								{
+									"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+									"fontsize" : [ 12.0 ],
+									"fontname" : [ "Arial" ]
 								}
 ,
 								"parentstyle" : "",
@@ -3248,9 +3253,9 @@
 , 							{
 								"name" : "section dividers",
 								"default" : 								{
-									"fontname" : [ "Arial" ],
 									"fontface" : [ 3 ],
-									"fontsize" : [ 15.0 ]
+									"fontsize" : [ 15.0 ],
+									"fontname" : [ "Arial" ]
 								}
 ,
 								"parentstyle" : "",
@@ -3259,8 +3264,8 @@
 , 							{
 								"name" : "section info reg",
 								"default" : 								{
-									"fontname" : [ "Arial" ],
-									"fontsize" : [ 12.0 ]
+									"fontsize" : [ 12.0 ],
+									"fontname" : [ "Arial" ]
 								}
 ,
 								"parentstyle" : "",
@@ -3269,9 +3274,9 @@
 , 							{
 								"name" : "titles",
 								"default" : 								{
-									"fontname" : [ "Arial" ],
 									"fontface" : [ 1 ],
-									"fontsize" : [ 20.0 ]
+									"fontsize" : [ 20.0 ],
+									"fontname" : [ "Arial" ]
 								}
 ,
 								"parentstyle" : "",
@@ -3608,7 +3613,7 @@
 					"patching_rect" : [ 26.5, 237.0, 71.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 330.5, 67.0, 91.0, 22.0 ],
-					"text" : "3c"
+					"text" : "22c"
 				}
 
 			}
@@ -3652,6 +3657,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-30", 0 ],
 					"source" : [ "obj-14", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-11", 0 ],
+					"source" : [ "obj-15", 0 ]
 				}
 
 			}
@@ -3867,6 +3879,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-15", 0 ],
+					"source" : [ "obj-45", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-38", 0 ],
 					"source" : [ "obj-47", 0 ]
 				}
@@ -3992,29 +4011,29 @@
 			}
 , 			{
 				"name" : "1.wav",
-				"bootpath" : "~/Desktop/baz/beau",
-				"patcherrelativepath" : "../../../../Desktop/baz/beau",
+				"bootpath" : "~/Desktop/baez/baz/beau",
+				"patcherrelativepath" : "../../../../Desktop/baez/baz/beau",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "2.wav",
-				"bootpath" : "~/Desktop/baz/beau",
-				"patcherrelativepath" : "../../../../Desktop/baz/beau",
+				"bootpath" : "~/Desktop/baez/baz/beau",
+				"patcherrelativepath" : "../../../../Desktop/baez/baz/beau",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "3.wav",
-				"bootpath" : "~/Desktop/baz/beau",
-				"patcherrelativepath" : "../../../../Desktop/baz/beau",
+				"bootpath" : "~/Desktop/baez/baz/beau",
+				"patcherrelativepath" : "../../../../Desktop/baez/baz/beau",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "4.wav",
-				"bootpath" : "~/Desktop/baz/beau",
-				"patcherrelativepath" : "../../../../Desktop/baz/beau",
+				"bootpath" : "~/Desktop/baez/baz/beau",
+				"patcherrelativepath" : "../../../../Desktop/baez/baz/beau",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
@@ -4102,12 +4121,6 @@
 		"autosave" : 0,
 		"styles" : [ 			{
 				"name" : "black on white",
-				"number" : 				{
-					"fontname" : [ "Arial" ],
-					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-					"fontsize" : [ 12.0 ]
-				}
-,
 				"umenu" : 				{
 					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 					"bgfillcolor" : 					{
@@ -4120,6 +4133,12 @@
 						"autogradient" : 0
 					}
 
+				}
+,
+				"number" : 				{
+					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+					"fontsize" : [ 12.0 ],
+					"fontname" : [ "Arial" ]
 				}
 ,
 				"parentstyle" : "",
@@ -4138,9 +4157,9 @@
 , 			{
 				"name" : "section dividers",
 				"default" : 				{
-					"fontname" : [ "Arial" ],
 					"fontface" : [ 3 ],
-					"fontsize" : [ 15.0 ]
+					"fontsize" : [ 15.0 ],
+					"fontname" : [ "Arial" ]
 				}
 ,
 				"parentstyle" : "",
@@ -4149,8 +4168,8 @@
 , 			{
 				"name" : "section info reg",
 				"default" : 				{
-					"fontname" : [ "Arial" ],
-					"fontsize" : [ 12.0 ]
+					"fontsize" : [ 12.0 ],
+					"fontname" : [ "Arial" ]
 				}
 ,
 				"parentstyle" : "",
@@ -4159,9 +4178,9 @@
 , 			{
 				"name" : "titles",
 				"default" : 				{
-					"fontname" : [ "Arial" ],
 					"fontface" : [ 1 ],
-					"fontsize" : [ 20.0 ]
+					"fontsize" : [ 20.0 ],
+					"fontname" : [ "Arial" ]
 				}
 ,
 				"parentstyle" : "",
